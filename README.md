@@ -2,5 +2,5 @@
 
 ## Aluno
 
-Maxwell Amciel de Sousa
+Maxwell Maciel de Sousa
 
